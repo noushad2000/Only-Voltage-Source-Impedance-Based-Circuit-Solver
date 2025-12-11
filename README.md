@@ -1,2 +1,2 @@
-# Only-Voltage-Source-Resistor-Based-Circuit-Solver
+# Only-Voltage-Source-Impedance-Based-Circuit-Solver
 Academic Project
